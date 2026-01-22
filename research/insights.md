@@ -27,3 +27,25 @@ PayNest helps students track allowances, manage side income, and save easily wit
 
 # Next steps
 Plan 5–10 student interviews and a short survey to validate assumptions.
+
+
+## Day 5 – UX Wireframes + Usability Assumptions
+
+### Wireframes
+- Login: email, password, login button.
+- Dashboard: balance summary, quick buttons, navigation bar.
+- Transactions: list view, filter categories.
+- Savings Goal: goal name, target amount, frequency, progress bar.
+
+### Usability Evidence
+#### Tasks users should complete
+- Log in and reach dashboard.
+- Record or view a transaction.
+- Create a savings goal.
+
+#### Potential confusion points
+- Login: email vs student ID.
+- Dashboard: too many buttons may overwhelm.
+- Transactions: unclear category filters.
+- Savings goal: frequency options may confuse.
+
